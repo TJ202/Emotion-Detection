@@ -1,4 +1,4 @@
-# Emotion Detection
+# Emotion Detection Using Facial Recognition with CNNs
 
 Most deep learning applications are only quantified with respect to its accuracy in making predictions or classifications. In an IoT application, this is not the only aspect of concern. Through this project we wish to quantise metrics that are usually ignored that are essential in an IoT application. These metrics can serve as a benchmark when developing deep learning models that are to be deployed in IoT applications.
 
